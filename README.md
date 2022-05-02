@@ -1,2 +1,2 @@
-# .NETCore_Patikas-
+# .NETCore_Patikasi
 Patika .Net Core Eğitimleri kapsamında oluşturduğum repo
